@@ -1,7 +1,7 @@
 # Site settings
 title: Andy Li's Visual Portfolio
 description: Online CV
- baseurl: "/aboutme"
+baseurl: "/aboutme"
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
