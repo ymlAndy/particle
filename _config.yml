@@ -2,7 +2,7 @@
 title: Andy Li's Visual Portfolio
 description: Online CV
 baseurl: "/index"
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://ymlandy.github.io/portfolio/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Andy Li
